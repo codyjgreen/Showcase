@@ -14,6 +14,10 @@ Read about how to contribute [here](.github/CONTRIBUTING.md).
  * Ruby 2.6.1
 
 #### Instructions
+
+---
+Update instructions on how to run application
+
 1. clone down the repo
 2. put instructions for how to run the application
 3. make sue they are detailed instructions
