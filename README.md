@@ -1,6 +1,6 @@
-# Showcase Backend
+# Showcase Fontend
 
-Rails API that allows students to add information about their Mod 5 projects to a website that will be shared with employers and future students
+React Frontend that allows students to add information about their Mod 5 projects to a website that will be shared with employers and future students
 
 ## Contributing
 Read about how to contribute [here](.github/CONTRIBUTING.md).
@@ -9,9 +9,8 @@ Read about how to contribute [here](.github/CONTRIBUTING.md).
 
 #### Requirements
 
- * PostgresSQL
- * Rails 6
- * Ruby 2.6.1
+ * React
+ * Redux
 
 #### Instructions
 
@@ -27,3 +26,5 @@ Update instructions on how to run application
 
 ## User Stories
 Read the [User Stories](User-Stories.md) to see what we need for the backend.
+
+[Link to Backend](https://github.com/codyjgreen/Showcase-Back)
