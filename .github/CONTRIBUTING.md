@@ -2,7 +2,7 @@
 :tada: Thank you for taking the time to contribute! :tada:
 
 The following is a set of guidelines for contributing to the Project Showcase
-Rails app. This is a project built by the Alumni over at Flatiron
+React app. This is a project built by the Alumni over at Flatiron
 School Seattle. Remember, these are guidelines, not rules. Use your best judgement, and
 feel free to propose changes to this document in a pull request.
 
@@ -12,6 +12,7 @@ feel free to propose changes to this document in a pull request.
       - [Table of Contents](#table-of-contents)
   - [Before Getting Started](#before-getting-started)
   - [Contribution Workflow](#contribution-workflow)
+- [Shoutouts](#shoutouts)
 
 ## Before Getting Started
 
@@ -68,3 +69,21 @@ mean you have to be assigned to it**.
 - Once an issue has passed review, move it to Done
   - If you want the experience of merging into master, you can merge it into master yourself
   - Once we get the app set up we can deploy it to heroku and have it auto deploy on push to master
+
+
+# Shoutouts
+
+Some of you may not finish this application with us but I want you all to get recognition! So below here please list your Github handle.
+
+:clap::fire:
+
+
+
+
+
+
+
+
+
+
+:fire::clap:
