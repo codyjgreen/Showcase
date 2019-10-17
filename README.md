@@ -3,14 +3,15 @@
 React Frontend that allows students to add information about their Mod 5 projects to a website that will be shared with employers and future students
 
 ## Contributing
+
 Read about how to contribute [here](.github/CONTRIBUTING.md).
 
 ## Env Setup
 
 #### Requirements
 
- * React
- * Redux
+* React
+* Redux
 
 #### Instructions
 
@@ -25,6 +26,7 @@ Update instructions on how to run application
 6. for example you might be on rails 6 make sure to let the user know that they may need to be on rails 6 to run this as is
 
 ## User Stories
+
 Read the [User Stories](User-Stories.md) to see what we need for the backend.
 
 [Link to Backend](https://github.com/codyjgreen/Showcase-Back)

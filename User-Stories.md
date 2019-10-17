@@ -69,4 +69,4 @@
 
 This is an example and doesn't exist yet make it similar to this
 
-flatiron-showcase.herokuapp.com/api/v1/seattle
+flatiron-showcase.herokuapp.com/api/v1/seattle  
