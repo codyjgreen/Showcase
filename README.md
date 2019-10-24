@@ -1,4 +1,4 @@
-# Showcase Fontend
+# Showcase Frontend
 
 React Frontend that allows students to add information about their Mod 5 projects to a website that will be shared with employers and future students
 
