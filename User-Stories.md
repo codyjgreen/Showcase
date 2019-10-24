@@ -43,7 +43,7 @@
 5. As an `Admin`, I should be able to confirm that users have graduated by checking a box, this will allow us to make sure that only students who have gratuated can post.
 6. As an `Admin`, After checking the box there should be an email sent to the `Alumni User` notifying them that they now have access to post the information about their Mod 5 project.
 7. As an `Admin`, I should have access to a Master Alumni page, that lists all of our graduated alumni in a table with their name, cohort, link to portfolio page, and hired checkbox.
-8. As an `Admin` and as an `Alumni User`, If I click the box hired there should be a text feild pop up that lets me list where the alumni was hired, This would take the user out of the currently looking pool and put them in a hired pool.
+8. As an `Admin` OR as an `Alumni User`, If I click the box hired there should be a text feild pop up that lets me list where the alumni was hired, This would take the user out of the currently looking pool and put them in a hired pool.
 9. As an `Admin`, I should be able to edit or delete portfolios, this will help us moderate the material that is posted.
 
 ## General Users
